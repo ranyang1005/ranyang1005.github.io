@@ -21,7 +21,7 @@
 title: My homebrew 
 email: ranyang1005@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Collect ideas to brew
+  Collect ideas to brew
 baseurl: /ranyang1005/ # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
